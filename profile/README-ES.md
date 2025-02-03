@@ -25,7 +25,7 @@ En este espacio compartimos iniciativas tecnológicas, herramientas y soluciones
 
 ## 📬 Contacto
 
-Si deseas colaborar con nosotros o conocer más sobre nuestro trabajo, puedes visitar nuestra web [albertalagrup.com](https://www.albertalagrup.com) o contactarnos en 📩 hostmaster@albertalagrup.com.
+Si deseas colaborar con nosotros o conocer más sobre nuestro trabajo, puedes visitar nuestra web [albertalagrup.com](https://www.albertalagrup.com) o contactarnos en 📩 developer@albertalagrup.com.
 
 ---
 

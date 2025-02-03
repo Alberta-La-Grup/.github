@@ -25,7 +25,7 @@ In this space, we share technological initiatives, tools, and digital solutions 
 
 ## 📬 Contact
 
-If you would like to collaborate with us or learn more about our work, you can visit our website at [albertalagrup.com](https://www.albertalagrup.com) or contact us at 📩 hostmaster@albertalagrup.com.
+If you would like to collaborate with us or learn more about our work, you can visit our website at [albertalagrup.com](https://www.albertalagrup.com) or contact us at 📩 developer@albertalagrup.com.
 
 ---
 
